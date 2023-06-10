@@ -4,7 +4,7 @@ This Movie App project is a simple movie application developed using React. The 
 
 ## Features:
 
--View all movies
--Filter movies by category
--Add and remove movies to favorites
--View movie details
+*View all movies
+*Filter movies by category
+*Add and remove movies to favorites
+*View movie details
