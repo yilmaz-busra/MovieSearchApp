@@ -1,6 +1,6 @@
 # Movie Search App
 
-This Movie App project is a simple movie application developed using React. The application fetches movie data from the **Open Movie Database (OMDb) API** and provides users with functionalities such as searching for movies, adding them to favorites, and accessing movie details. This project is written in **React** and utilizes the **react-router-dom**, **useEffect** and **useSatate** hooks.
+This Movie App project is a simple movie application developed using React. The application fetches movie data from the **Open Movie Database (OMDb) API** and provides users with functionalities such as searching for movies, adding them to favorites, and accessing movie details. This project is written in **React** and utilizes the **react-router-dom**, **useEffect** ,**react icons** and **useSatate** hooks.
 
 ## Features:
 
