@@ -9,10 +9,12 @@ import FilmAbout from "./pages/FilmAbout";
 
 function App() {
   const [movies, setMovies] = useState([]);
-  const [fav, setFav] = useState([]);
+  const [fav, setFav] = useState(
+    localStorage.getItem("favs") ? JSON.parse(localStorage.getItem("favs")) : []
+  );
 
   useEffect(() => {
-    console.log(fav);
+    localStorage.setItem("favs", JSON.stringify(fav));
   }, [fav]);
   return (
     <BrowserRouter>
