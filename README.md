@@ -1,4 +1,4 @@
-![alt  application-photo cart cleared](https://imgur.com/PEOQivw)
+![alt  application-photo cart cleared](https://i.imgur.com/PEOQivw.png)
 
 # Movie Search App
 
